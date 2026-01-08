@@ -1,0 +1,57 @@
+default_install_hook_types: [pre-commit]
+default_stages: [pre-commit]
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+    -   id: check-yaml
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace
+    -   id: check-added-large-files
+    -   id: check-merge-conflict
+-   repo: https://github.com/psf/black
+    rev: 25.1.0
+    hooks:
+    -   id: black
+        language_version: python3.10
+        args:
+          -  --line-length=119
+          -  --force-exclude=SageMaker
+-   repo: https://github.com/asottile/reorder_python_imports
+    rev: v3.15.0
+    hooks:
+    -   id: reorder-python-imports
+        args: [--application-directories="."]
+-   repo: https://github.com/asottile/pyupgrade
+    rev: v3.20.0
+    hooks:
+    -   id: pyupgrade
+        args: [--py310-plus]
+-   repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.18.1
+    hooks:
+    -   id: mypy
+        files: ^src/
+        args: [--config-file=pyproject.toml, --ignore-missing-imports]
+        additional_dependencies: [types-toml]
+-   repo: https://github.com/pycqa/flake8
+    rev: 7.3.0
+    hooks:
+    -   id: flake8
+        exclude: ^tests|SageMaker/
+        additional_dependencies:
+          - flake8-docstrings~=1.7.0
+          - pep8-naming~=0.13.1
+          - flake8-class-attributes-order~=0.1.3
+          - flake8-unused-arguments~=0.0.13
+          - flake8-variables-names~=0.0.5
+-   repo: https://github.com/numpy/numpydoc
+    rev: v1.9.0
+    hooks:
+    -   id: numpydoc-validation
+        exclude: main.py|missingpy
+-   repo: https://github.com/RobertCraigie/pyright-python
+    rev: v1.1.405
+    hooks:
+    -   id: pyright
+        exclude: ^tests

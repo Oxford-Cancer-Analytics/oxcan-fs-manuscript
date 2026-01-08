@@ -1,0 +1,614 @@
+patient_id,label,stage,histology,molecular_alteration,sex,age_dx,age_range,ethnicity,pack_years,smoking_status,smoking_history
+OX_LC_00001,NSLC late,3B,"Adenocarcinoma, NOS",,Male,69.0,60 - 70,Unknown,15.0,Ex-smoker,non-heavy
+OX_LC_00002,NSLC early,1A,"Large cell carcinoma, NOS",,Male,65.0,60 - 70,Unknown,50.0,Ex-smoker,heavy
+OX_LC_00003,NSLC late,4,"Adenocarcinoma, NOS",,Female,78.0,70 - 80,White/Caucasian,42.3,Current smoker,heavy
+OX_LC_00004,SCLC late,4,Small cell carcinoma NOS,,Male,82.0,80 - 90,Asian/Pacific Islander,35.0,Ex-smoker,heavy
+OX_LC_00005,NSLC late,4,"Adenocarcinoma, NOS",,Male,80.0,80 - 90,White/Caucasian,25.0,Ex-smoker,heavy
+OX_LC_00006,NSLC late,3B,"Squamous cell carcinoma, NOS",,Male,48.0,< 50,White/Caucasian,77.5,Current smoker,heavy
+OX_LC_00007,SCLC early,1A,Small cell carcinoma NOS,,Male,88.0,80 - 90,White/Caucasian,44.0,Ex-smoker,heavy
+OX_LC_00008,NSLC early,1B,Bronchiolo alveolar adenocarcinoma (C34._),,Female,64.0,60 - 70,White/Caucasian,23.25,Ex-smoker,heavy
+OX_LC_00009,NSLC early,2B,Non-small cell carcinoma (C34._),,Female,78.0,70 - 80,White/Caucasian,52.0,Current smoker,heavy
+OX_LC_00010,NSLC early,2B,"Squamous cell carcinoma, NOS",,Male,79.0,70 - 80,Unknown,25.0,,heavy
+OX_LC_00011,SCLC late,3B,Small cell carcinoma NOS,,Female,71.0,70 - 80,White/Caucasian,43.5,Current smoker,heavy
+OX_LC_00012,NSLC late,4,"Adenocarcinoma, NOS",,Female,79.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00013,NSLC late,4,"Adenocarcinoma, NOS",,Male,56.0,50 - 60,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00014,NSLC late,4,"Adenocarcinoma, NOS",,Female,72.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00015,NSLC early,1A,Acinar cell carcinoma,,Male,52.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00016,NSLC early,2B,Adenocarcinoma with mixed subtypes,,Male,74.0,70 - 80,White/Caucasian,60.0,Ex-smoker,heavy
+OX_LC_00017,NSLC late,4,"Adenocarcinoma, NOS",,Female,43.0,< 50,White/Caucasian,25.0,Current smoker,heavy
+OX_LC_00018,NSLC late,3B,"Squamous cell carcinoma, NOS",,Male,59.0,50 - 60,White/Caucasian,70.0,Current smoker,heavy
+OX_LC_00019,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,70.0,70 - 80,White/Caucasian,37.5,Current smoker,heavy
+OX_LC_00020,NSLC late,3B,"Adenocarcinoma, NOS",,Female,61.0,60 - 70,White/Caucasian,25.0,Current smoker,heavy
+OX_LC_00021,SCLC late,4,Small cell carcinoma NOS,,Male,70.0,70 - 80,White/Caucasian,110.0,Current smoker,heavy
+OX_LC_00022,NSLC late,4,"Adenocarcinoma, NOS",,Male,66.0,60 - 70,White/Caucasian,53.75,Ex-smoker,heavy
+OX_LC_00023,NSLC late,3A,"Squamous cell carcinoma, NOS",,Female,73.0,70 - 80,White/Caucasian,52.5,Ex-smoker,heavy
+OX_LC_00024,NSLC early,1B,"Squamous cell carcinoma, NOS",,Male,75.0,70 - 80,White/Caucasian,87.0,Ex-smoker,heavy
+OX_LC_00025,Rare late,3A,"Clear cell adenocarcinoma, NOS",,Male,66.0,60 - 70,White/Caucasian,35.0,Ex-smoker,heavy
+OX_LC_00026,SCLC late,4,Small cell carcinoma NOS,,Male,82.0,80 - 90,White/Caucasian,43.0,Ex-smoker,heavy
+OX_LC_00027,NSLC early,1B,"Squamous cell carcinoma, NOS",,Male,73.0,70 - 80,White/Caucasian,57.0,Current smoker,heavy
+OX_LC_00028,NSLC late,4,"Adenocarcinoma, NOS",EGFR Exon 21 L858R,Female,61.0,60 - 70,White/Caucasian,15.5,Ex-smoker,non-heavy
+OX_LC_00029,NSLC late,3B,"Squamous cell carcinoma, NOS",,Male,76.0,70 - 80,White/Caucasian,33.0,Ex-smoker,heavy
+OX_LC_00030,NSLC early,2B,"Adenocarcinoma, NOS",,Female,51.0,50 - 60,White/Caucasian,45.0,Current smoker,heavy
+OX_LC_00031,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,83.0,80 - 90,White/Caucasian,90.0,Current smoker,heavy
+OX_LC_00032,NSLC early,1B,"Squamous cell carcinoma, NOS",,Male,59.0,50 - 60,White/Caucasian,33.75,Ex-smoker,heavy
+OX_LC_00033,NSLC late,4,"Adenocarcinoma, NOS",,Female,76.0,70 - 80,White/Caucasian,80.0,Ex-smoker,heavy
+OX_LC_00034,SCLC late,4,Small cell carcinoma NOS,,Male,73.0,70 - 80,White/Caucasian,51.0,Ex-smoker,heavy
+OX_LC_00035,SCLC late,3A,Small cell carcinoma NOS,,Male,53.0,50 - 60,White/Caucasian,46.25,Current smoker,heavy
+OX_LC_00036,NSLC late,4,"Large cell carcinoma, NOS",,Female,87.0,80 - 90,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00037,NSLC late,4,"Adenocarcinoma, NOS",,Female,64.0,60 - 70,White/Caucasian,30.0,Ex-smoker,heavy
+OX_LC_00038,NSLC late,3A,Adenocarcinoma with mixed subtypes,,Female,70.0,70 - 80,White/Caucasian,15.0,Ex-smoker,non-heavy
+OX_LC_00039,NSLC early,1A,"Adenocarcinoma, NOS",,Male,51.0,50 - 60,White/Caucasian,27.0,Current smoker,heavy
+OX_LC_00040,NSLC early,1A,Acinar cell carcinoma,,Male,86.0,80 - 90,White/Caucasian,18.0,Ex-smoker,non-heavy
+OX_LC_00041,NSLC late,4,"Adenocarcinoma, NOS",,Male,66.0,60 - 70,Unknown,40.0,Ex-smoker,heavy
+OX_LC_00042,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,70.0,70 - 80,White/Caucasian,174.0,Current smoker,heavy
+OX_LC_00043,NSLC late,4,"Adenocarcinoma, NOS",,Male,55.0,50 - 60,White/Caucasian,17.5,Ex-smoker,non-heavy
+OX_LC_00044,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,64.0,60 - 70,White/Caucasian,15.0,Ex-smoker,non-heavy
+OX_LC_00045,NSLC early,1A,Non-small cell carcinoma (C34._),,Male,76.0,70 - 80,White/Caucasian,54.0,Ex-smoker,heavy
+OX_LC_00046,NSLC late,4,"Adenocarcinoma, NOS",,Male,56.0,50 - 60,Asian/Pacific Islander,23.4,Current smoker,heavy
+OX_LC_00047,Rare early,1B,"Clear cell adenocarcinoma, NOS",,Female,48.0,< 50,White/Caucasian,18.75,Current smoker,non-heavy
+OX_LC_00048,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,69.0,60 - 70,White/Caucasian,41.125,Ex-smoker,heavy
+OX_LC_00049,NSLC late,3B,"Adenocarcinoma, NOS",,Male,67.0,60 - 70,Unknown,107.5,,heavy
+OX_LC_00050,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,65.0,60 - 70,White/Caucasian,20.0,Current smoker,heavy
+OX_LC_00051,NSLC late,4,"Adenocarcinoma, NOS",,Female,64.0,60 - 70,White/Caucasian,43.0,Ex-smoker,heavy
+OX_LC_00052,NSLC late,4,"Squamous cell carcinoma, keratinizing, NOS",,Female,71.0,70 - 80,White/Caucasian,39.75,Current smoker,heavy
+OX_LC_00053,NSLC late,4,"Papillary adenocarcinoma, NOS",,Male,70.0,70 - 80,White/Caucasian,53.0,Current smoker,heavy
+OX_LC_00054,NSLC late,3A,"Adenocarcinoma, NOS",,Male,80.0,80 - 90,White/Caucasian,67.0,Current smoker,heavy
+OX_LC_00055,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,75.0,70 - 80,White/Caucasian,108.0,Ex-smoker,heavy
+OX_LC_00056,NSLC late,4,"Adenocarcinoma, NOS",,Male,60.0,60 - 70,White/Caucasian,30.75,Current smoker,heavy
+OX_LC_00057,NSLC late,4,"Large cell carcinoma, NOS",,Male,74.0,70 - 80,White/Caucasian,120.0,Current smoker,heavy
+OX_LC_00059,SCLC late,4,Small cell carcinoma NOS,,Female,69.0,60 - 70,White/Caucasian,42.0,Current smoker,heavy
+OX_LC_00060,NSLC early,2B,"Solid carcinoma, NOS",,Female,69.0,60 - 70,White/Caucasian,46.25,Ex-smoker,heavy
+OX_LC_00061,NSLC late,3B,"Adenocarcinoma, NOS",,Female,69.0,60 - 70,White/Caucasian,68.75,Current smoker,heavy
+OX_LC_00062,NSLC early,1A,"Adenocarcinoma, NOS",,Male,61.0,60 - 70,White/Caucasian,53.75,Ex-smoker,heavy
+OX_LC_00063,NSLC late,4,"Adenocarcinoma, NOS",,Male,71.0,70 - 80,White/Caucasian,26.0,Ex-smoker,heavy
+OX_LC_00064,NSLC early,1A,"Adenocarcinoma, NOS",,Female,58.0,50 - 60,White/Caucasian,80.0,Current smoker,heavy
+OX_LC_00065,NSLC late,4,"Adenocarcinoma, NOS",,Female,77.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00066,NSLC early,1B,"Adenocarcinoma, NOS",,Female,79.0,70 - 80,White/Caucasian,43.0,Ex-smoker,heavy
+OX_LC_00067,NSLC late,4,"Adenocarcinoma, NOS",,Male,69.0,60 - 70,White/Caucasian,22.0,Ex-smoker,heavy
+OX_LC_00068,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,64.0,60 - 70,White/Caucasian,63.0,Current smoker,heavy
+OX_LC_00069,SCLC late,3B,Small cell carcinoma NOS,,Male,68.0,60 - 70,White/Caucasian,65.0,Current smoker,heavy
+OX_LC_00070,NSLC early,1B,Adenocarcinoma with mixed subtypes,,Female,76.0,70 - 80,White/Caucasian,55.0,Ex-smoker,heavy
+OX_LC_00071,NSLC early,1A,"Bronchiolo alveolar carcinoma, non mucinous (C34._)",,Female,72.0,70 - 80,White/Caucasian,14.8,Ex-smoker,non-heavy
+OX_LC_00072,NSLC late,4,"Large cell carcinoma, NOS",,Female,70.0,70 - 80,White/Caucasian,10.0,Ex-smoker,non-heavy
+OX_LC_00073,NSLC early,1A,"Adenocarcinoma, NOS",,Female,83.0,80 - 90,White/Caucasian,61.0,Ex-smoker,heavy
+OX_LC_00074,NSLC late,4,"Adenocarcinoma, NOS",,Female,62.0,60 - 70,White/Caucasian,5.85,Ex-smoker,non-heavy
+OX_LC_00075,NSLC late,4,Bronchiolo alveolar adenocarcinoma (C34._),,Female,59.0,50 - 60,White/Caucasian,18.7,Current smoker,non-heavy
+OX_LC_00076,NSLC late,3A,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Male,59.0,50 - 60,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00077,NSLC early,1A,"Adenocarcinoma, NOS",,Female,54.0,50 - 60,White/Caucasian,48.75,Current smoker,heavy
+OX_LC_00078,NSLC early,1A,"Squamous cell carcinoma, NOS",,Male,57.0,50 - 60,White/Caucasian,20.35,Current smoker,heavy
+OX_LC_00079,NSLC late,4,"Large cell carcinoma, NOS","EGFRUnknown,ALKUnknown",Male,77.0,70 - 80,Unknown,80.0,Ex-smoker,heavy
+OX_LC_00080,NSLC early,2A,"Adenocarcinoma, NOS",,Male,78.0,70 - 80,White/Caucasian,67.0,Current smoker,heavy
+OX_LC_00081,NSLC early,1B,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Male,72.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00082,NSLC late,4,"Adenocarcinoma, NOS",,Female,59.0,50 - 60,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00083,NSLC late,3B,"Adenocarcinoma, NOS",,Male,72.0,70 - 80,Asian/Pacific Islander,58.0,Ex-smoker,heavy
+OX_LC_00084,NSLC early,2A,"Squamous cell carcinoma, NOS",,Male,71.0,70 - 80,White/Caucasian,50.0,Current smoker,heavy
+OX_LC_00085,NSLC early,2B,"Squamous cell carcinoma, NOS",,Male,58.0,50 - 60,White/Caucasian,36.25,Ex-smoker,heavy
+OX_LC_00086,SCLC late,3B,Small cell carcinoma NOS,,Female,67.0,60 - 70,White/Caucasian,38.0,Ex-smoker,heavy
+OX_LC_00087,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,50.0,50 - 60,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00088,SCLC late,4,Small cell carcinoma NOS,,Male,54.0,50 - 60,White/Caucasian,50.0,Current smoker,heavy
+OX_LC_00089,NSLC early,1B,Adenocarcinoma with mixed subtypes,,Male,60.0,60 - 70,White/Caucasian,42.0,Current smoker,heavy
+OX_LC_00090,NSLC early,2A,Non-small cell carcinoma (C34._),,Male,68.0,60 - 70,Unknown,80.0,Current smoker,heavy
+OX_LC_00091,NSLC early,2,"Squamous cell carcinoma, NOS",,Male,65.0,60 - 70,White/Caucasian,182.0,Current smoker,heavy
+OX_LC_00092,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,70.0,70 - 80,White/Caucasian,50.7,Ex-smoker,heavy
+OX_LC_00093,NSLC late,4,"Adenocarcinoma, NOS",,Female,64.0,60 - 70,Unknown,30.0,,heavy
+OX_LC_00094,NSLC late,3B,"Adenocarcinoma, NOS",,Female,59.0,50 - 60,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00095,NSLC late,4,"Adenocarcinoma, NOS",,Male,71.0,70 - 80,White/Caucasian,61.25,Ex-smoker,heavy
+OX_LC_00096,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,74.0,70 - 80,Unknown,50.0,,heavy
+OX_LC_00097,NSLC late,3B,"Adenocarcinoma, NOS",,Female,68.0,60 - 70,White/Caucasian,50.0,Current smoker,heavy
+OX_LC_00098,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,52.0,50 - 60,White/Caucasian,43.75,Current smoker,heavy
+OX_LC_00099,NSLC late,4,"Large cell carcinoma, NOS",,Female,80.0,80 - 90,White/Caucasian,45.75,Current smoker,heavy
+OX_LC_00100,SCLC early,1A,Combined small cell carcinoma,,Female,66.0,60 - 70,White/Caucasian,56.25,Current smoker,heavy
+OX_LC_00101,NSLC late,4,"Large cell carcinoma, NOS",,Female,56.0,50 - 60,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00102,NSLC late,4,Bronchiolo alveolar adenocarcinoma (C34._),,Male,45.0,< 50,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00103,NSLC late,4,"Squamous cell carcinoma, NOS",,Female,73.0,70 - 80,White/Caucasian,51.0,Ex-smoker,heavy
+OX_LC_00104,NSLC late,3B,"Adenocarcinoma, NOS",,Male,69.0,60 - 70,Unknown,49.0,Current smoker,heavy
+OX_LC_00105,NSLC late,4,"Squamous cell carcinoma, NOS",,Female,61.0,60 - 70,White/Caucasian,32.0,Ex-smoker,heavy
+OX_LC_00106,NSLC late,3A,Solid adenocarcinoma with mucin formation,,Male,53.0,50 - 60,White/Caucasian,38.0,Current smoker,heavy
+OX_LC_00107,NSLC late,4,"Adenocarcinoma, NOS",,Male,62.0,60 - 70,First Nations,61.25,Current smoker,heavy
+OX_LC_00108,NSLC late,3B,"Adenocarcinoma, NOS",,Male,72.0,70 - 80,White/Caucasian,98.0,Ex-smoker,heavy
+OX_LC_00109,SCLC late,4,Small cell neuroendocrine carcinoma,,Male,58.0,50 - 60,White/Caucasian,39.0,Current smoker,heavy
+OX_LC_00110,NSLC early,2B,"Squamous cell carcinoma, NOS",,Female,72.0,70 - 80,White/Caucasian,31.5,Ex-smoker,heavy
+OX_LC_00111,NSLC late,3B,Adenocarcinoma with mixed subtypes,,Female,59.0,50 - 60,Unknown,44.0,Current smoker,heavy
+OX_LC_00112,NSLC late,3B,"Squamous cell carcinoma, NOS",,Male,73.0,70 - 80,Unknown,,,unknown
+OX_LC_00113,NSLC late,3A,"Large cell carcinoma, NOS",,Female,76.0,70 - 80,White/Caucasian,55.0,Ex-smoker,heavy
+OX_LC_00114,NSLC early,1A,Non-small cell carcinoma (C34._),,Male,77.0,70 - 80,White/Caucasian,36.6,Current smoker,heavy
+OX_LC_00115,SCLC late,3B,Small cell carcinoma NOS,,Female,73.0,70 - 80,White/Caucasian,24.3,Current smoker,heavy
+OX_LC_00116,NSLC early,1B,"Adenocarcinoma, NOS",,Female,74.0,70 - 80,White/Caucasian,17.0,Ex-smoker,non-heavy
+OX_LC_00117,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,77.0,70 - 80,White/Caucasian,55.0,Ex-smoker,heavy
+OX_LC_00118,NSLC early,1B,"Adenocarcinoma, NOS",,Male,81.0,80 - 90,Asian/Pacific Islander,1.0,Light ex-smoker,non-heavy
+OX_LC_00119,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,60.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00120,NSLC late,3A,"Adenocarcinoma, NOS","EGFRNo,ALKNo",Female,45.0,< 50,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00121,NSLC late,3B,"Adenocarcinoma, NOS",,Male,80.0,80 - 90,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00122,NSLC late,4,"Adenocarcinoma, NOS",,Male,70.0,70 - 80,Unknown,15.0,,non-heavy
+OX_LC_00123,NSLC late,4,"Adenocarcinoma, NOS",,Male,81.0,80 - 90,White/Caucasian,25.0,Ex-smoker,heavy
+OX_LC_00124,NSLC early,1A,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,67.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00125,NSLC late,4,"Adenocarcinoma, NOS",,Female,72.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00126,SCLC late,4,Small cell carcinoma NOS,,Male,60.0,60 - 70,White/Caucasian,43.0,Current smoker,heavy
+OX_LC_00127,NSLC early,2A,"Squamous cell carcinoma, NOS",,Male,81.0,80 - 90,Asian/Pacific Islander,18.6,Current smoker,non-heavy
+OX_LC_00128,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,44.0,< 50,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00129,NSLC late,3B,"Adenocarcinoma, NOS",,Female,62.0,60 - 70,Unknown,3.0,,non-heavy
+OX_LC_00130,SCLC late,4,Small cell carcinoma NOS,,Male,72.0,70 - 80,White/Caucasian,7.0,Ex-smoker,non-heavy
+OX_LC_00131,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,75.0,70 - 80,White/Caucasian,1.8,Light ex-smoker,non-heavy
+OX_LC_00132,NSLC late,3A,"Adenocarcinoma, NOS",,Female,59.0,50 - 60,White/Caucasian,55.0,Current smoker,heavy
+OX_LC_00133,NSLC early,1B,Adenocarcinoma with mixed subtypes,,Male,74.0,70 - 80,White/Caucasian,40.0,Ex-smoker,heavy
+OX_LC_00134,NSLC late,3B,"Adenocarcinoma, NOS",,Male,76.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00135,NSLC late,3A,"Adenocarcinoma, NOS",,Male,72.0,70 - 80,Asian/Pacific Islander,30.0,Ex-smoker,heavy
+OX_LC_00136,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,78.0,70 - 80,White/Caucasian,40.0,Ex-smoker,heavy
+OX_LC_00137,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,73.0,70 - 80,White/Caucasian,33.0,Ex-smoker,heavy
+OX_LC_00138,NSLC late,4,"Squamous cell carcinoma, NOS",,Female,85.0,80 - 90,White/Caucasian,27.75,Ex-smoker,heavy
+OX_LC_00139,NSLC late,4,"Large cell carcinoma, NOS",,Female,65.0,60 - 70,Asian/Pacific Islander,9.6,Ex-smoker,non-heavy
+OX_LC_00140,NSLC early,2B,"Squamous cell carcinoma, NOS",,Male,81.0,80 - 90,White/Caucasian,65.0,Ex-smoker,heavy
+OX_LC_00141,NSLC late,3A,"Squamous cell carcinoma, NOS",,Female,91.0,> 90,White/Caucasian,40.0,Ex-smoker,heavy
+OX_LC_00142,NSLC early,2B,"Squamous cell carcinoma, NOS",,Male,62.0,60 - 70,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00143,NSLC early,1B,Adenocarcinoma with mixed subtypes,,Male,73.0,70 - 80,White/Caucasian,19.5,Ex-smoker,non-heavy
+OX_LC_00144,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,58.0,50 - 60,White/Caucasian,68.75,Current smoker,heavy
+OX_LC_00145,NSLC late,3A,"Adenocarcinoma, NOS",,Female,74.0,70 - 80,Unknown,15.0,Ex-smoker,non-heavy
+OX_LC_00146,NSLC late,3A,"Adenocarcinoma, NOS",,Female,60.0,60 - 70,White/Caucasian,39.0,Current smoker,heavy
+OX_LC_00147,NSLC late,4,"Adenocarcinoma, NOS",,Female,51.0,50 - 60,White/Caucasian,43.75,Current smoker,heavy
+OX_LC_00148,NSLC late,4,"Adenocarcinoma, NOS",,Male,56.0,50 - 60,White/Caucasian,81.0,Ex-smoker,heavy
+OX_LC_00149,NSLC late,3A,Adenocarcinoma with mixed subtypes,"EGFRNo,ALKNo",Male,51.0,50 - 60,Unknown,44.0,Current smoker,heavy
+OX_LC_00150,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,68.0,60 - 70,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00151,NSLC late,3A,Adenocarcinoma with mixed subtypes,,Female,48.0,< 50,White/Caucasian,3.6,Current smoker,non-heavy
+OX_LC_00152,NSLC late,4,"Adenocarcinoma, NOS",,Female,81.0,80 - 90,White/Caucasian,41.4,Ex-smoker,heavy
+OX_LC_00153,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,80.0,80 - 90,White/Caucasian,40.0,Ex-smoker,heavy
+OX_LC_00154,NSLC late,3A,"Squamous cell carcinoma, NOS",,Female,75.0,70 - 80,White/Caucasian,71.25,Ex-smoker,heavy
+OX_LC_00155,SCLC late,4,Small cell carcinoma NOS,,Male,58.0,50 - 60,White/Caucasian,80.0,Current smoker,heavy
+OX_LC_00156,NSLC late,4,"Large cell carcinoma, NOS",,Female,65.0,60 - 70,White/Caucasian,53.75,Current smoker,heavy
+OX_LC_00157,NSLC late,4,"Squamous cell carcinoma, NOS",,Female,64.0,60 - 70,White/Caucasian,47.25,Current smoker,heavy
+OX_LC_00158,NSLC late,4,"Large cell carcinoma, NOS",,Male,72.0,70 - 80,Mixed,71.5,Current smoker,heavy
+OX_LC_00159,NSLC late,3A,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Male,61.0,60 - 70,White/Caucasian,10.0,Ex-smoker,non-heavy
+OX_LC_00160,NSLC late,3A,Adenocarcinoma with mixed subtypes,,Female,70.0,70 - 80,White/Caucasian,26.4,Ex-smoker,heavy
+OX_LC_00161,NSLC early,2A,Adenocarcinoma with mixed subtypes,,Female,70.0,70 - 80,White/Caucasian,45.5,Current smoker,heavy
+OX_LC_00162,NSLC early,1B,Adenocarcinoma with mixed subtypes,,Female,67.0,60 - 70,White/Caucasian,41.125,Ex-smoker,heavy
+OX_LC_00163,NSLC early,1B,"Adenocarcinoma, NOS",,Male,85.0,80 - 90,Asian/Pacific Islander,50.0,Ex-smoker,heavy
+OX_LC_00164,NSLC late,3B,"Squamous cell carcinoma, NOS",,Male,60.0,60 - 70,White/Caucasian,115.0,Current smoker,heavy
+OX_LC_00165,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,76.0,70 - 80,White/Caucasian,60.0,Ex-smoker,heavy
+OX_LC_00166,NSLC early,1A,Non-small cell carcinoma (C34._),,Female,63.0,60 - 70,White/Caucasian,63.75,Current smoker,heavy
+OX_LC_00167,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,74.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00168,NSLC early,1A,"Papillary adenocarcinoma, NOS",,Female,71.0,70 - 80,White/Caucasian,90.0,Ex-smoker,heavy
+OX_LC_00169,NSLC early,1A,"Adenocarcinoma, NOS",,Female,71.0,70 - 80,White/Caucasian,13.2,Current smoker,non-heavy
+OX_LC_00170,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,82.0,80 - 90,White/Caucasian,15.75,Current smoker,non-heavy
+OX_LC_00171,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,63.0,60 - 70,White/Caucasian,56.25,Current smoker,heavy
+OX_LC_00172,SCLC late,3B,Small cell carcinoma NOS,,Male,71.0,70 - 80,White/Caucasian,45.0,Ex-smoker,heavy
+OX_LC_00173,NSLC early,1A,"Squamous cell carcinoma, NOS",,Male,74.0,70 - 80,White/Caucasian,130.0,Ex-smoker,heavy
+OX_LC_00174,NSLC late,4,Bronchiolo alveolar adenocarcinoma (C34._),,Female,60.0,60 - 70,White/Caucasian,48.75,Ex-smoker,heavy
+OX_LC_00175,SCLC late,3B,Small cell carcinoma NOS,,Male,85.0,80 - 90,White/Caucasian,160.0,Current smoker,heavy
+OX_LC_00176,NSLC early,2B,Non-small cell carcinoma (C34._),,Male,84.0,80 - 90,White/Caucasian,29.25,Current smoker,heavy
+OX_LC_00177,NSLC late,3A,"Squamous cell carcinoma, NOS",,Female,75.0,70 - 80,White/Caucasian,42.75,Current smoker,heavy
+OX_LC_00178,SCLC late,4,Small cell carcinoma NOS,,Male,56.0,50 - 60,White/Caucasian,27.75,Ex-smoker,heavy
+OX_LC_00179,NSLC early,1B,"Adenocarcinoma, NOS",,Male,66.0,60 - 70,White/Caucasian,48.0,Current smoker,heavy
+OX_LC_00180,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,70.0,70 - 80,White/Caucasian,62.5,Current smoker,heavy
+OX_LC_00181,NSLC late,4,"Adenocarcinoma, NOS",,Female,53.0,50 - 60,White/Caucasian,41.25,Ex-smoker,heavy
+OX_LC_00182,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,58.0,50 - 60,Mixed,34.0,Ex-smoker,heavy
+OX_LC_00183,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,64.0,60 - 70,White/Caucasian,14.0,Ex-smoker,non-heavy
+OX_LC_00184,NSLC late,3B,"Large cell carcinoma, NOS",,Male,73.0,70 - 80,White/Caucasian,47.5,Ex-smoker,heavy
+OX_LC_00185,NSLC early,1A,"Squamous cell carcinoma, NOS",,Male,71.0,70 - 80,White/Caucasian,57.375,Ex-smoker,heavy
+OX_LC_00186,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,45.0,< 50,Black/African-Canadian,0.0,Never smoker,non-heavy
+OX_LC_00187,NSLC early,2A,"Adenocarcinoma, NOS",,Male,71.0,70 - 80,White/Caucasian,3.125,Light ex-smoker,non-heavy
+OX_LC_00188,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,79.0,70 - 80,Asian/Pacific Islander,42.0,Ex-smoker,heavy
+OX_LC_00189,NSLC early,1A,Acinar cell carcinoma,ALK+. EGFR-,Male,69.0,60 - 70,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00190,NSLC late,4,Adenosquamous carcinoma,,Female,51.0,50 - 60,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00191,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,53.0,50 - 60,Unknown,,,unknown
+OX_LC_00192,SCLC late,4,Small cell carcinoma NOS,,Male,51.0,50 - 60,Asian/Pacific Islander,9.6,Current smoker,non-heavy
+OX_LC_00193,NSLC late,3A,"Squamous cell carcinoma, NOS",,Female,70.0,70 - 80,White/Caucasian,62.5,Current smoker,heavy
+OX_LC_00194,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,61.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00195,NSLC early,1A,"Squamous cell carcinoma, NOS",,Male,72.0,70 - 80,Unknown,40.0,Ex-smoker,heavy
+OX_LC_00196,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,60.0,60 - 70,White/Caucasian,184.8,Ex-smoker,heavy
+OX_LC_00197,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,52.0,50 - 60,White/Caucasian,40.0,Current smoker,heavy
+OX_LC_00198,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,56.0,50 - 60,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00199,NSLC late,4,"Large cell carcinoma, NOS",,Female,58.0,50 - 60,White/Caucasian,26.0,Ex-smoker,heavy
+OX_LC_00200,SCLC late,4,Small cell carcinoma NOS,,Male,68.0,60 - 70,White/Caucasian,47.0,Current smoker,heavy
+OX_LC_00201,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,69.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00202,NSLC early,2B,Adenosquamous carcinoma,,Male,60.0,60 - 70,Unknown,45.0,,heavy
+OX_LC_00203,SCLC late,4,Small cell carcinoma NOS,,Female,59.0,50 - 60,White/Caucasian,48.75,Current smoker,heavy
+OX_LC_00204,NSLC early,1,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,56.0,50 - 60,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00205,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,73.0,70 - 80,White/Caucasian,55.0,Ex-smoker,heavy
+OX_LC_00206,NSLC early,1B,"Squamous cell carcinoma, NOS",,Female,62.0,60 - 70,White/Caucasian,22.0,Current smoker,heavy
+OX_LC_00207,SCLC late,4,Small cell carcinoma NOS,,Male,84.0,80 - 90,White/Caucasian,,,unknown
+OX_LC_00208,NSLC late,4,"Large cell carcinoma, NOS",,Male,61.0,60 - 70,White/Caucasian,57.5,Current smoker,heavy
+OX_LC_00209,SCLC late,3B,Small cell carcinoma NOS,,Male,66.0,60 - 70,White/Caucasian,44.0,Current smoker,heavy
+OX_LC_00210,NSLC early,1A,"Adenocarcinoma, NOS",,Female,48.0,< 50,Black/African-Canadian,0.0,Never smoker,non-heavy
+OX_LC_00211,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,63.0,60 - 70,White/Caucasian,114.0,Ex-smoker,heavy
+OX_LC_00212,NSLC early,1A,"Carcinoma, NOS",,Male,92.0,> 90,White/Caucasian,76.0,Ex-smoker,heavy
+OX_LC_00213,NSLC early,1A,"Bronchiolo alveolar carcinoma, mucinous (C34._)",,Female,90.0,> 90,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00214,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,75.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00215,NSLC early,1A,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Female,49.0,< 50,White/Caucasian,21.25,Ex-smoker,heavy
+OX_LC_00216,NSLC early,2B,Adenocarcinoma with mixed subtypes,,Male,85.0,80 - 90,Unknown,20.0,Ex-smoker,heavy
+OX_LC_00217,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,61.0,60 - 70,Asian/Pacific Islander,63.0,Ex-smoker,heavy
+OX_LC_00218,NSLC late,4,"Adenocarcinoma, NOS","EGFR L858R, ALK-",Female,71.0,70 - 80,White/Caucasian,8.0,Current smoker,non-heavy
+OX_LC_00219,NSLC early,1B,"Squamous cell carcinoma, NOS",,Male,67.0,60 - 70,White/Caucasian,51.0,Current smoker,heavy
+OX_LC_00220,NSLC early,2A,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Female,50.0,50 - 60,Latino/Hispanics,0.0,Never smoker,non-heavy
+OX_LC_00221,NSLC late,3A,"Squamous cell carcinoma, NOS",,Female,71.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00222,NSLC early,1A,"Adenocarcinoma, NOS",,Female,73.0,70 - 80,White/Caucasian,36.4,Current smoker,heavy
+OX_LC_00223,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,50.0,50 - 60,White/Caucasian,31.0,Current smoker,heavy
+OX_LC_00224,NSLC early,1A,"Bronchiolo alveolar carcinoma, non mucinous (C34._)","EGFR L858R, ALK-",Male,57.0,50 - 60,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00225,NSLC early,2A,"Squamous cell carcinoma, NOS",,Male,82.0,80 - 90,White/Caucasian,50.0,Ex-smoker,heavy
+OX_LC_00226,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,69.0,60 - 70,White/Caucasian,66.0,Ex-smoker,heavy
+OX_LC_00227,NSLC early,1A,Adenocarcinoma combined with other types of carcinoma,"EGFR Exon 19, ALK-",Female,69.0,60 - 70,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00228,NSLC late,4,Adenocarcinoma with mixed subtypes,"EGFR+, ALK-",Female,75.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00229,SCLC late,3A,Small cell carcinoma NOS,,Male,80.0,80 - 90,White/Caucasian,30.0,Ex-smoker,heavy
+OX_LC_00230,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,77.0,70 - 80,White/Caucasian,20.0,Ex-smoker,heavy
+OX_LC_00231,SCLC late,4,Small cell carcinoma NOS,,Female,75.0,70 - 80,Unknown,60.0,Current smoker,heavy
+OX_LC_00232,NSLC late,4,"Squamous cell carcinoma, NOS",,Female,63.0,60 - 70,Black/African-Canadian,43.0,Current smoker,heavy
+OX_LC_00233,NSLC late,3B,"Squamous cell carcinoma, NOS",,Male,60.0,60 - 70,White/Caucasian,21.0,Ex-smoker,heavy
+OX_LC_00234,SCLC early,2B,Small cell carcinoma NOS,,Male,67.0,60 - 70,Asian/Pacific Islander,50.0,Current smoker,heavy
+OX_LC_00235,NSLC early,2B,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS",,Male,76.0,70 - 80,White/Caucasian,31.0,Ex-smoker,heavy
+OX_LC_00236,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,61.0,60 - 70,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00237,NSLC late,3B,"Squamous cell carcinoma, NOS",,Male,76.0,70 - 80,White/Caucasian,40.0,Current smoker,heavy
+OX_LC_00238,NSLC early,2B,"Squamous cell carcinoma, NOS",,Male,48.0,< 50,White/Caucasian,24.0,Current smoker,heavy
+OX_LC_00239,NSLC early,1B,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Male,70.0,70 - 80,White/Caucasian,25.0,Ex-smoker,heavy
+OX_LC_00240,NSLC early,1A,"Squamous cell carcinoma, NOS",,Male,64.0,60 - 70,White/Caucasian,85.75,Current smoker,heavy
+OX_LC_00241,NSLC late,4,"Large cell carcinoma, NOS",,Male,59.0,50 - 60,Asian/Pacific Islander,4.9,Light ex-smoker,non-heavy
+OX_LC_00242,NSLC early,1A,Large cell neuroendocrine carcinoma,,Male,59.0,50 - 60,White/Caucasian,61.5,Ex-smoker,heavy
+OX_LC_00243,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Male,51.0,50 - 60,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00244,NSLC late,4,"Large cell carcinoma, NOS",,Female,63.0,60 - 70,White/Caucasian,60.0,Current smoker,heavy
+OX_LC_00245,NSLC late,4,"Squamous cell carcinoma, NOS",,Female,48.0,< 50,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00246,NSLC early,1A,"Squamous cell carcinoma, NOS",,Male,68.0,60 - 70,White/Caucasian,63.75,Ex-smoker,heavy
+OX_LC_00247,NSLC late,4,"Large cell carcinoma, NOS",,Female,74.0,70 - 80,Unknown,10.0,,non-heavy
+OX_LC_00248,NSLC early,1A,"Adenocarcinoma, NOS",,Male,66.0,60 - 70,White/Caucasian,52.0,Current smoker,heavy
+OX_LC_00249,NSLC early,1B,Adenocarcinoma with neuroendocrine differentiation,,Male,90.0,> 90,White/Caucasian,33.0,Ex-smoker,heavy
+OX_LC_00250,NSLC early,1A,Adenocarcinoma with mixed subtypes,"EGFR Exon 21 L858R, ALK-",Female,82.0,80 - 90,White/Caucasian,4.35,Light ex-smoker,non-heavy
+OX_LC_00251,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,60.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00252,NSLC early,2B,Adenocarcinoma with mixed subtypes,,Male,58.0,50 - 60,Unknown,50.0,"Ever smoker, NOS",heavy
+OX_LC_00253,NSLC early,0,"Squamous cell carcinoma in situ, NOS",,Male,78.0,70 - 80,White/Caucasian,99.0,Current smoker,heavy
+OX_LC_00254,NSLC late,3B,"Large cell carcinoma, NOS",,Female,82.0,80 - 90,White/Caucasian,63.75,Ex-smoker,heavy
+OX_LC_00255,NSLC early,2A,"Squamous cell carcinoma, NOS",,Male,65.0,60 - 70,White/Caucasian,33.0,Ex-smoker,heavy
+OX_LC_00256,NSLC early,1B,"Adenocarcinoma, NOS",,Male,79.0,70 - 80,White/Caucasian,60.0,Ex-smoker,heavy
+OX_LC_00257,SCLC late,4,Small cell carcinoma NOS,,Male,61.0,60 - 70,Latino/Hispanics,39.0,Current smoker,heavy
+OX_LC_00258,NSLC early,1B,"Squamous cell carcinoma, NOS",,Male,65.0,60 - 70,White/Caucasian,92.75,Current smoker,heavy
+OX_LC_00259,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,78.0,70 - 80,Asian/Pacific Islander,45.0,Ex-smoker,heavy
+OX_LC_00260,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,76.0,70 - 80,White/Caucasian,99.75,Current smoker,heavy
+OX_LC_00261,NSLC late,4,Pleomorphic carcinoma,"EGFR+, ALK-",Female,44.0,< 50,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00262,NSLC early,2A,"Squamous cell carcinoma, NOS",,Female,76.0,70 - 80,White/Caucasian,124.0,Current smoker,heavy
+OX_LC_00263,NSLC early,2B,"Adenocarcinoma, NOS",,Male,71.0,70 - 80,Asian/Pacific Islander,23.25,Ex-smoker,heavy
+OX_LC_00264,NSLC early,1A,"Squamous cell carcinoma, NOS",,Male,82.0,80 - 90,White/Caucasian,23.2,Ex-smoker,heavy
+OX_LC_00265,NSLC early,1B,Adenocarcinoma with mixed subtypes,,Female,60.0,60 - 70,White/Caucasian,39.0,Ex-smoker,heavy
+OX_LC_00266,NSLC early,1B,Adenocarcinoma with mixed subtypes,"EGFR Exon 21 L858R Exon 22, ALK-",Female,64.0,60 - 70,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00267,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Male,65.0,60 - 70,Black/African-Canadian,0.0,Never smoker,non-heavy
+OX_LC_00268,NSLC early,1A,Acinar cell carcinoma,,Female,75.0,70 - 80,White/Caucasian,15.0,Ex-smoker,non-heavy
+OX_LC_00269,NSLC early,1B,Adenocarcinoma with mixed subtypes,,Male,65.0,60 - 70,White/Caucasian,45.0,Current smoker,heavy
+OX_LC_00270,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Male,60.0,60 - 70,Latino/Hispanics,0.0,Never smoker,non-heavy
+OX_LC_00271,NSLC early,1B,"Squamous cell carcinoma, NOS",,Female,68.0,60 - 70,White/Caucasian,51.75,Current smoker,heavy
+OX_LC_00272,NSLC early,2A,"Squamous cell carcinoma, NOS","EGFRUnknown,ALKUnknown",Female,65.0,60 - 70,White/Caucasian,70.0,Ex-smoker,heavy
+OX_LC_00273,NSLC early,2A,"Squamous cell carcinoma, NOS",,Male,83.0,80 - 90,White/Caucasian,24.0,Ex-smoker,heavy
+OX_LC_00274,NSLC early,1B,"Adenocarcinoma, NOS",,Male,68.0,60 - 70,White/Caucasian,71.25,Ex-smoker,heavy
+OX_LC_00275,NSLC early,1A,"Adenocarcinoma, NOS",,Female,85.0,80 - 90,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00276,SCLC late,3A,Small cell carcinoma NOS,,Male,84.0,80 - 90,Unknown,70.0,,heavy
+OX_LC_00277,NSLC early,1A,"Adenocarcinoma, NOS",,Male,76.0,70 - 80,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00278,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,50.0,50 - 60,White/Caucasian,105.0,Current smoker,heavy
+OX_LC_00279,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 21, ALK-",Female,67.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00280,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Male,62.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00281,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,80.0,80 - 90,White/Caucasian,57.0,Ex-smoker,heavy
+OX_LC_00282,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,59.0,50 - 60,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00283,NSLC early,1B,"Papillary adenocarcinoma, NOS",,Male,59.0,50 - 60,White/Caucasian,48.75,Current smoker,heavy
+OX_LC_00284,NSLC early,1A,"Adenocarcinoma, NOS",,Male,45.0,< 50,White/Caucasian,14.3,Current smoker,non-heavy
+OX_LC_00285,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,84.0,80 - 90,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00286,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,71.0,70 - 80,White/Caucasian,29.4,Ex-smoker,heavy
+OX_LC_00287,NSLC early,1B,"Squamous cell carcinoma, keratinizing, NOS",,Male,75.0,70 - 80,White/Caucasian,28.5,Current smoker,heavy
+OX_LC_00288,NSLC early,2A,"Squamous cell carcinoma, NOS",,Male,73.0,70 - 80,White/Caucasian,36.0,Ex-smoker,heavy
+OX_LC_00289,NSLC early,2A,Adenocarcinoma with mixed subtypes,,Male,74.0,70 - 80,Black/African-Canadian,40.0,Ex-smoker,heavy
+OX_LC_00290,NSLC early,1A,"Adenocarcinoma, NOS",,Female,65.0,60 - 70,White/Caucasian,51.0,Ex-smoker,heavy
+OX_LC_00291,NSLC early,1A,"Adenocarcinoma, NOS",,Male,61.0,60 - 70,White/Caucasian,71.5,Current smoker,heavy
+OX_LC_00292,NSLC early,1A,Pleomorphic carcinoma,,Male,71.0,70 - 80,Unknown,63.75,Current smoker,heavy
+OX_LC_00293,NSLC late,4,"Squamous cell carcinoma, NOS",,Female,57.0,50 - 60,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00294,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,77.0,70 - 80,Unknown,,,unknown
+OX_LC_00295,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19 L858R, ALK-",Female,66.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00296,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,89.0,80 - 90,Black/African-Canadian,0.0,Never smoker,non-heavy
+OX_LC_00297,NSLC late,4,"Squamous cell carcinoma, NOS",,Female,74.0,70 - 80,White/Caucasian,61.875,Current smoker,heavy
+OX_LC_00298,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,65.0,60 - 70,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00299,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,72.0,70 - 80,White/Caucasian,44.1,Current smoker,heavy
+OX_LC_00300,NSLC late,3B,"Squamous cell carcinoma, NOS",,Male,84.0,80 - 90,White/Caucasian,60.0,Ex-smoker,heavy
+OX_LC_00301,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,48.0,< 50,White/Caucasian,28.0,Current smoker,heavy
+OX_LC_00302,NSLC late,3B,Large cell neuroendocrine carcinoma,,Male,66.0,60 - 70,White/Caucasian,4.05,Light ex-smoker,non-heavy
+OX_LC_00303,NSLC early,1B,"Carcinoma, NOS",,Male,87.0,80 - 90,Asian/Pacific Islander,10.0,Current smoker,non-heavy
+OX_LC_00304,NSLC early,1B,Pleomorphic carcinoma,,Male,52.0,50 - 60,White/Caucasian,40.0,Current smoker,heavy
+OX_LC_00305,NSLC late,3B,"Squamous cell carcinoma, NOS",,Male,73.0,70 - 80,Unknown,30.0,,heavy
+OX_LC_00306,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,69.0,60 - 70,Black/African-Canadian,51.0,Current smoker,heavy
+OX_LC_00307,NSLC late,4,"Large cell carcinoma, NOS","EGFR Exon 21, ALK Unknown",Female,57.0,50 - 60,White/Caucasian,53.75,Ex-smoker,heavy
+OX_LC_00308,NSLC late,3B,"Large cell carcinoma, NOS",,Male,73.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00309,NSLC early,1,"Adenocarcinoma, NOS",,Female,83.0,80 - 90,White/Caucasian,75.0,Ex-smoker,heavy
+OX_LC_00310,SCLC late,3A,Small cell carcinoma NOS,,Female,81.0,80 - 90,White/Caucasian,59.0,Ex-smoker,heavy
+OX_LC_00311,NSLC late,4,"Squamous cell carcinoma, NOS",,Female,63.0,60 - 70,White/Caucasian,45.0,Current smoker,heavy
+OX_LC_00312,NSLC late,4,Non-small cell carcinoma (C34._),"EGFR G719C/S768I, ALK-, IO",Male,61.0,60 - 70,White/Caucasian,15.0,Ex-smoker,non-heavy
+OX_LC_00313,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,74.0,70 - 80,White/Caucasian,20.0,Ex-smoker,heavy
+OX_LC_00314,NSLC early,1B,Large cell neuroendocrine carcinoma,,Male,79.0,70 - 80,White/Caucasian,31.5,Ex-smoker,heavy
+OX_LC_00315,NSLC early,1B,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,61.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00316,NSLC early,1A,"Squamous cell carcinoma, NOS",,Female,71.0,70 - 80,White/Caucasian,53.0,Current smoker,heavy
+OX_LC_00317,NSLC early,1B,"Large cell carcinoma, NOS",,Female,73.0,70 - 80,Black/African-Canadian,78.0,Current smoker,heavy
+OX_LC_00318,NSLC late,3B,"Squamous cell carcinoma, NOS",,Female,67.0,60 - 70,White/Caucasian,56.0,Ex-smoker,heavy
+OX_LC_00319,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 21, ALK Unknown",Female,49.0,< 50,White/Caucasian,11.0,Ex-smoker,non-heavy
+OX_LC_00320,NSLC early,1B,Adenocarcinoma with mixed subtypes,,Female,73.0,70 - 80,Asian/Pacific Islander,2.45,Current smoker,non-heavy
+OX_LC_00321,NSLC early,1A,Adenocarcinoma with mixed subtypes,"EGFR L858R, ALK-",Male,83.0,80 - 90,Asian/Pacific Islander,57.0,Ex-smoker,heavy
+OX_LC_00322,SCLC late,3B,Small cell carcinoma NOS,,Female,71.0,70 - 80,White/Caucasian,128.25,Current smoker,heavy
+OX_LC_00323,NSLC early,2A,"Adenocarcinoma, NOS",,Female,71.0,70 - 80,White/Caucasian,40.0,Ex-smoker,heavy
+OX_LC_00324,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,66.0,60 - 70,White/Caucasian,53.75,Current smoker,heavy
+OX_LC_00325,NSLC early,1A,"Adenocarcinoma, NOS",,Male,63.0,60 - 70,White/Caucasian,43.0,Current smoker,heavy
+OX_LC_00326,NSLC early,1A,Mucinous adenocarcinoma,,Female,66.0,60 - 70,White/Caucasian,43.0,Current smoker,heavy
+OX_LC_00327,SCLC late,4,Small cell carcinoma NOS,,Female,74.0,70 - 80,White/Caucasian,28.0,Current smoker,heavy
+OX_LC_00328,NSLC early,2A,Adenocarcinoma with mixed subtypes,,Male,71.0,70 - 80,White/Caucasian,68.75,Current smoker,heavy
+OX_LC_00329,NSLC late,3A,"Adenocarcinoma, NOS","EGFR Exon 19 T790M, ALK-",Male,68.0,60 - 70,Asian/Pacific Islander,27.0,Ex-smoker,heavy
+OX_LC_00330,NSLC early,1B,Pleomorphic carcinoma,,Female,53.0,50 - 60,Unknown,30.0,,heavy
+OX_LC_00331,SCLC early,1A,Small cell carcinoma NOS,,Female,74.0,70 - 80,White/Caucasian,45.0,Ex-smoker,heavy
+OX_LC_00332,SCLC late,3A,Small cell carcinoma NOS,,Female,70.0,70 - 80,Unknown,60.0,,heavy
+OX_LC_00333,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Male,80.0,80 - 90,White/Caucasian,30.0,Current smoker,heavy
+OX_LC_00334,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,84.0,80 - 90,Unknown,70.0,,heavy
+OX_LC_00335,SCLC late,4,Small cell carcinoma NOS,,Male,65.0,60 - 70,White/Caucasian,35.0,Ex-smoker,heavy
+OX_LC_00336,NSLC early,1A,Acinar adenocarcinoma,,Female,59.0,50 - 60,White/Caucasian,41.0,Current smoker,heavy
+OX_LC_00337,NSLC early,2A,Adenocarcinoma with mixed subtypes,,Male,75.0,70 - 80,Asian/Pacific Islander,43.75,Ex-smoker,heavy
+OX_LC_00338,NSLC late,4,Adenosquamous carcinoma,,Male,81.0,80 - 90,Asian/Pacific Islander,44.0,Ex-smoker,heavy
+OX_LC_00339,NSLC early,2A,"Adenocarcinoma, NOS",,Male,64.0,60 - 70,White/Caucasian,147.0,Current smoker,heavy
+OX_LC_00340,NSLC early,1A,"Adenocarcinoma, NOS",,Male,70.0,70 - 80,Mixed,19.5,Ex-smoker,non-heavy
+OX_LC_00341,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Female,80.0,80 - 90,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00342,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,66.0,60 - 70,White/Caucasian,82.5,Ex-smoker,heavy
+OX_LC_00343,NSLC early,1A,"Adenocarcinoma, NOS",,Female,66.0,60 - 70,White/Caucasian,32.5,Ex-smoker,heavy
+OX_LC_00344,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,82.0,80 - 90,White/Caucasian,40.5,Ex-smoker,heavy
+OX_LC_00345,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Male,60.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00346,SCLC late,4,Small cell carcinoma NOS,,Male,70.0,70 - 80,White/Caucasian,62.4,Ex-smoker,heavy
+OX_LC_00347,NSLC early,2A,Adenocarcinoma with mixed subtypes,"EGFRNo,ALKNo",Male,67.0,60 - 70,White/Caucasian,45.0,Ex-smoker,heavy
+OX_LC_00348,SCLC early,1A,Small cell carcinoma NOS,,Female,78.0,70 - 80,White/Caucasian,30.0,Ex-smoker,heavy
+OX_LC_00349,NSLC early,1B,Acinar cell carcinoma,"EGFR Exon 21 L858R, ALK-",Male,74.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00350,NSLC early,2A,Adenocarcinoma with mixed subtypes,"EGFR Exon 19 T790M, ALK-",Female,57.0,50 - 60,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00351,NSLC early,1A,"Adenocarcinoma, NOS","EGFR Exon 21 L858R, ALK-",Female,68.0,60 - 70,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00352,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,67.0,60 - 70,Unknown,60.0,,heavy
+OX_LC_00353,NSLC late,4,"Large cell carcinoma, NOS",,Female,38.0,< 50,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00354,NSLC early,2A,Adenocarcinoma with mixed subtypes,,Female,60.0,60 - 70,White/Caucasian,35.0,Current smoker,heavy
+OX_LC_00355,NSLC late,3A,"Squamous cell carcinoma, NOS",,Female,73.0,70 - 80,Unknown,,,unknown
+OX_LC_00356,NSLC early,1A,Non-small cell carcinoma (C34._),,Male,82.0,80 - 90,White/Caucasian,29.75,Ex-smoker,heavy
+OX_LC_00357,NSLC early,1A,Acinar cell carcinoma,,Female,70.0,70 - 80,White/Caucasian,31.5,Ex-smoker,heavy
+OX_LC_00358,NSLC early,2B,Non-small cell carcinoma (C34._),,Male,59.0,50 - 60,Unknown,42.0,,heavy
+OX_LC_00359,NSLC late,4,"Large cell carcinoma, NOS",,Male,82.0,80 - 90,White/Caucasian,64.8,Ex-smoker,heavy
+OX_LC_00360,NSLC late,4,"Large cell carcinoma, NOS",,Male,77.0,70 - 80,White/Caucasian,21.7,Current smoker,heavy
+OX_LC_00361,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,70.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00362,SCLC late,4,Small cell carcinoma NOS,,Male,68.0,60 - 70,White/Caucasian,54.0,Current smoker,heavy
+OX_LC_00363,SCLC late,3A,Small cell carcinoma NOS,,Female,41.0,< 50,White/Caucasian,6.875,Current smoker,non-heavy
+OX_LC_00364,SCLC late,4,Small cell carcinoma NOS,,Male,49.0,< 50,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00365,NSLC early,1B,"Large cell carcinoma, NOS",,Female,79.0,70 - 80,White/Caucasian,85.5,Current smoker,heavy
+OX_LC_00366,NSLC late,3A,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-, IO",Female,76.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00367,NSLC early,1A,Acinar adenocarcinoma,,Female,54.0,50 - 60,White/Caucasian,33.3,Current smoker,heavy
+OX_LC_00368,NSLC late,3A,"Squamous cell carcinoma, NOS",,Female,71.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00369,SCLC late,4,Small cell carcinoma NOS,,Female,69.0,60 - 70,White/Caucasian,130.0,Current smoker,heavy
+OX_LC_00370,SCLC late,4,Small cell carcinoma NOS,,Male,54.0,50 - 60,White/Caucasian,54.0,Current smoker,heavy
+OX_LC_00371,NSLC early,1A,Adenocarcinoma with mixed subtypes,"EGFR Exon 18, ALK-",Female,79.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00372,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,77.0,70 - 80,White/Caucasian,32.0,Ex-smoker,heavy
+OX_LC_00373,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,76.0,70 - 80,White/Caucasian,51.75,Current smoker,heavy
+OX_LC_00374,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,73.0,70 - 80,White/Caucasian,52.0,Current smoker,heavy
+OX_LC_00375,SCLC early,2A,Small cell carcinoma NOS,,Female,72.0,70 - 80,White/Caucasian,45.0,Current smoker,heavy
+OX_LC_00376,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,76.0,70 - 80,Unknown,35.0,Ex-smoker,heavy
+OX_LC_00377,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,75.0,70 - 80,White/Caucasian,33.75,Ex-smoker,heavy
+OX_LC_00378,NSLC late,3A,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,59.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00379,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,80.0,80 - 90,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00380,NSLC late,3A,"Adenocarcinoma, NOS","EGFR Exon 21 L858R, ALK-",Female,59.0,50 - 60,White/Caucasian,9.75,Current smoker,non-heavy
+OX_LC_00381,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Male,70.0,70 - 80,Unknown,75.0,Ex-smoker,heavy
+OX_LC_00382,NSLC late,3A,"Squamous cell carcinoma, NOS",,Male,56.0,50 - 60,Black/African-Canadian,6.6,Current smoker,non-heavy
+OX_LC_00383,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,92.0,> 90,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00384,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,53.0,50 - 60,White/Caucasian,7.0,Ex-smoker,non-heavy
+OX_LC_00385,NSLC late,3,"Squamous cell carcinoma, NOS",,Female,62.0,60 - 70,White/Caucasian,4.0,Light ex-smoker,non-heavy
+OX_LC_00386,NSLC late,3B,"Squamous cell carcinoma, NOS",,Male,54.0,50 - 60,First Nations,66.0,Ex-smoker,heavy
+OX_LC_00387,SCLC late,4,Small cell carcinoma NOS,,Male,58.0,50 - 60,White/Caucasian,44.85,Current smoker,heavy
+OX_LC_00388,SCLC late,4,Small cell carcinoma NOS,,Female,59.0,50 - 60,White/Caucasian,51.25,Current smoker,heavy
+OX_LC_00389,NSLC early,1A,"Adenocarcinoma, NOS",,Female,82.0,80 - 90,Mixed,6.5,Ex-smoker,non-heavy
+OX_LC_00390,NSLC late,3A,"Large cell carcinoma, NOS",,Female,57.0,50 - 60,White/Caucasian,41.0,Current smoker,heavy
+OX_LC_00391,NSLC late,4,Adenosquamous carcinoma,,Male,78.0,70 - 80,White/Caucasian,33.0,Ex-smoker,heavy
+OX_LC_00392,NSLC early,2A,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Male,63.0,60 - 70,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00393,NSLC late,4,"Squamous cell carcinoma, NOS",,Female,53.0,50 - 60,White/Caucasian,58.5,Current smoker,heavy
+OX_LC_00394,NSLC late,4,Adenosquamous carcinoma,"EGFR+, ALK-",Female,66.0,60 - 70,Black/African-Canadian,0.0,Never smoker,non-heavy
+OX_LC_00395,NSLC early,1A,Acinar cell carcinoma,"EGFR Exon 19, ALK-",Female,65.0,60 - 70,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00396,SCLC late,3B,Small cell carcinoma NOS,,Female,62.0,60 - 70,Unknown,44.0,,heavy
+OX_LC_00397,NSLC late,3A,"Adenocarcinoma, NOS",EGFR Exon 19,Female,60.0,60 - 70,White/Caucasian,55.0,Current smoker,heavy
+OX_LC_00398,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,53.0,50 - 60,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00399,NSLC early,2A,Solid carcinoma with mucin formation,,Male,72.0,70 - 80,Asian/Pacific Islander,12.75,Current smoker,non-heavy
+OX_LC_00400,NSLC early,1A,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Male,63.0,60 - 70,Asian/Pacific Islander,30.0,Ex-smoker,heavy
+OX_LC_00401,SCLC late,3A,Small cell carcinoma NOS,,Male,64.0,60 - 70,White/Caucasian,53.75,Current smoker,heavy
+OX_LC_00402,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Male,48.0,< 50,White/Caucasian,30.0,Current smoker,heavy
+OX_LC_00403,NSLC early,1A,Adenocarcinoma with mixed subtypes,,Male,57.0,50 - 60,White/Caucasian,15.0,Ex-smoker,non-heavy
+OX_LC_00404,NSLC early,1B,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Male,70.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00405,NSLC early,1A,Acinar cell carcinoma,"EGFR Exon 19, ALK-",Female,67.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00406,NSLC early,1B,"Squamous cell carcinoma, NOS",,Male,83.0,80 - 90,White/Caucasian,47.25,Current smoker,heavy
+OX_LC_00407,NSLC early,1A,"Adenocarcinoma, NOS",,Female,70.0,70 - 80,White/Caucasian,43.75,Current smoker,heavy
+OX_LC_00408,NSLC late,3A,Adenocarcinoma with mixed subtypes,,Female,68.0,60 - 70,Unknown,40.0,,heavy
+OX_LC_00409,NSLC early,1B,Pleomorphic carcinoma,,Male,61.0,60 - 70,Unknown,60.0,,heavy
+OX_LC_00410,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,64.0,60 - 70,Unknown,50.0,,heavy
+OX_LC_00411,NSLC late,4,"Adenocarcinoma, NOS",EGFR Exon 21 L858R,Female,84.0,80 - 90,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00412,SCLC late,4,Small cell carcinoma NOS,,Female,59.0,50 - 60,White/Caucasian,44.0,Current smoker,heavy
+OX_LC_00413,SCLC late,4,Small cell carcinoma NOS,,Female,80.0,80 - 90,White/Caucasian,67.5,Ex-smoker,heavy
+OX_LC_00414,NSLC late,4,Large cell neuroendocrine carcinoma,,Female,63.0,60 - 70,White/Caucasian,21.5,Current smoker,heavy
+OX_LC_00415,NSLC late,3B,"Squamous cell carcinoma, NOS",,Female,86.0,80 - 90,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00416,NSLC early,1A,Large cell neuroendocrine carcinoma,,Female,69.0,60 - 70,White/Caucasian,30.6,Current smoker,heavy
+OX_LC_00417,SCLC late,4,Small cell carcinoma NOS,,Male,69.0,60 - 70,White/Caucasian,37.5,Ex-smoker,heavy
+OX_LC_00418,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,41.0,< 50,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00419,NSLC late,3A,"Adenocarcinoma, NOS","EGFR+, ALK-",Female,71.0,70 - 80,White/Caucasian,21.0,Ex-smoker,heavy
+OX_LC_00420,NSLC late,3A,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Female,64.0,60 - 70,White/Caucasian,17.0,Ex-smoker,non-heavy
+OX_LC_00421,NSLC early,2A,"Carcinoma, NOS",,Male,96.0,> 90,White/Caucasian,18.5,Ex-smoker,non-heavy
+OX_LC_00422,SCLC late,4,Small cell carcinoma NOS,,Male,66.0,60 - 70,Unknown,45.0,,heavy
+OX_LC_00423,NSLC early,1B,"Adenocarcinoma, NOS","EGFR Exon 19 or Exon 21 L858R, ALK-",Female,75.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00424,NSLC,UNK,"Adenocarcinoma, NOS",,Female,52.0,50 - 60,Unknown,15.0,,non-heavy
+OX_LC_00425,NSLC late,3A,"Squamous cell carcinoma, NOS","EGFRUnknown,ALKUnknown",Male,78.0,70 - 80,White/Caucasian,50.0,Current smoker,heavy
+OX_LC_00426,NSLC early,1A,"Bronchiolo alveolar carcinoma, non mucinous (C34._)",,Female,78.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00427,NSLC early,1A,Non-small cell carcinoma (C34._),,Female,75.0,70 - 80,White/Caucasian,59.0,Current smoker,heavy
+OX_LC_00428,NSLC late,4,Non-small cell carcinoma (C34._),,Male,64.0,60 - 70,White/Caucasian,55.5,Ex-smoker,heavy
+OX_LC_00429,SCLC late,4,Small cell carcinoma NOS,,Male,54.0,50 - 60,White/Caucasian,40.0,Current smoker,heavy
+OX_LC_00430,NSLC late,4,"Squamous cell carcinoma, NOS",,Male,71.0,70 - 80,White/Caucasian,66.25,Current smoker,heavy
+OX_LC_00431,SCLC late,4,Small cell carcinoma NOS,,Female,71.0,70 - 80,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00432,NSLC late,3A,Adenocarcinoma with mixed subtypes,"EGFR Exon 21 L858R, ALK-",Female,74.0,70 - 80,Unknown,5.0,,non-heavy
+OX_LC_00433,SCLC late,3A,Small cell carcinoma NOS,,Male,82.0,80 - 90,White/Caucasian,66.0,Current smoker,heavy
+OX_LC_00434,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Male,73.0,70 - 80,Asian/Pacific Islander,25.0,Current smoker,heavy
+OX_LC_00435,NSLC early,1A,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Female,80.0,80 - 90,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00436,NSLC early,1B,"Solid carcinoma, NOS",,Male,78.0,70 - 80,Asian/Pacific Islander,50.0,Current smoker,heavy
+OX_LC_00437,NSLC early,1B,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Female,58.0,50 - 60,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00438,NSLC late,4,"Adenocarcinoma, NOS","EGFR+, ALK-",Male,62.0,60 - 70,White/Caucasian,25.0,Ex-smoker,heavy
+OX_LC_00439,NSLC late,3B,"Large cell carcinoma, NOS",,Male,52.0,50 - 60,White/Caucasian,34.0,Ex-smoker,heavy
+OX_LC_00440,NSLC early,2A,"Adenocarcinoma, NOS","EGFR L958R, ALK-",Female,78.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00441,NSLC early,2A,Mixed cell adenocarcinoma,"EGFR Exon 19, ALK-",Female,64.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00442,NSLC early,1B,Adenocarcinoma with mixed subtypes,,Female,72.0,70 - 80,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00443,NSLC late,4,"Squamous cell carcinoma, NOS","EGFR+, ALK-",Female,30.0,< 50,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00444,NSLC early,1B,Adenocarcinoma with mixed subtypes,"EGFR Exon 19, ALK-",Male,81.0,80 - 90,White/Caucasian,0.0,Never smoker,non-heavy
+OX_LC_00445,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Male,49.0,< 50,White/Caucasian,9.0,Ex-smoker,non-heavy
+OX_LC_00446,NSLC early,1A,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,50.0,50 - 60,Black/African-Canadian,0.0,Never smoker,non-heavy
+OX_LC_00447,NSLC late,3,"Squamous cell carcinoma, NOS",,Female,65.0,60 - 70,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00448,NSLC early,1B,Adenocarcinoma with mixed subtypes,"EGFR Exon 21 L858R, ALK-",Female,75.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00449,NSLC early,1A,Acinic cell adenocarcinoma,,Male,76.0,70 - 80,Asian/Pacific Islander,56.375,Ex-smoker,heavy
+OX_LC_00450,NSLC early,1A,"Adenocarcinoma, NOS","EGFR Exon 21, ALK-, Dx in China",Male,73.0,70 - 80,Asian/Pacific Islander,0.0,Never smoker,non-heavy
+OX_LC_00451,NSLC late,3B,"Adenocarcinoma, NOS","EGFR L858R, ALK-",Female,65.0,60 - 70,Unknown,20.0,Current smoker,heavy
+OX_LC_00452,NSLC late,4,"Adenocarcinoma, NOS","EGFR L858R, ALK-",Female,59.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00453,NSLC late,3A,"Adenocarcinoma, NOS","EGFR Exon 20, ALK-",Female,62.0,60 - 70,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00454,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 21 L858R, ALK-",Female,80.0,80 - 90,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00455,NSLC late,4,"Adenocarcinoma, NOS","EGFR L861Q, ALK-",Female,56.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00456,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,64.0,60 - 70,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00457,NSLC late,4,Atypical carcinoid tumor,"EGFR L858R, ALK-",Female,74.0,70 - 80,Unknown,50.0,Current smoker,heavy
+OX_LC_00458,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,54.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00459,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,57.0,50 - 60,Unknown,,,unknown
+OX_LC_00460,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 21 L858R, ALK-",Female,49.0,< 50,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00461,NSLC late,3B,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,71.0,70 - 80,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00462,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,77.0,70 - 80,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00463,NSLC late,4,"Adenocarcinoma, NOS","EGFR L858R T790M, ALK-",Female,75.0,70 - 80,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00464,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 21 L858R, ALK-",Female,76.0,70 - 80,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00465,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Male,66.0,60 - 70,Unknown,20.0,Ex-smoker,heavy
+OX_LC_00466,NSLC late,3A,Acinar cell carcinoma,"EGFR Exon 18 and 20, ALK-",Male,61.0,60 - 70,Unknown,,,unknown
+OX_LC_00467,NSLC late,3A,"Adenocarcinoma, NOS","EGFR T790M, ALK-",Female,93.0,> 90,Unknown,1.2,Light ex-smoker,non-heavy
+OX_LC_00468,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 18, ALK-, IO, KRAS+",Female,61.0,60 - 70,Unknown,110.0,Current smoker,heavy
+OX_LC_00469,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19 T790M, ALK-",Male,70.0,70 - 80,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00470,NSLC late,4,Mucinous adenocarcinoma,"EGFR Exon 19, ALK-",Male,67.0,60 - 70,Unknown,1.0,Light ex-smoker,non-heavy
+OX_LC_00471,NSLC late,4,Adenosquamous carcinoma,"EGFR Exon 19, ALK-",Female,56.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00472,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 21 T790M, ALK-",Female,58.0,50 - 60,Unknown,1.0,Light ex-smoker,non-heavy
+OX_LC_00473,NSLC late,4,"Adenocarcinoma, NOS","EGFR T790M, ALK-; IO",Male,60.0,60 - 70,Unknown,40.0,Current smoker,heavy
+OX_LC_00474,NSLC late,4B,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,72.0,70 - 80,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00475,NSLC late,4,"Adenocarcinoma with acinar, solid and micropaillary features","EGFR Exon 19, ALK-",Female,65.0,60 - 70,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00476,NSLC late,4B,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,44.0,< 50,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00477,NSLC late,4B,"Adenocarcinoma, NOS","EGFR Exon 20 T790M and Exon 21 L858R, ALK-",Female,54.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00478,NSLC late,4B,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,57.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00479,NSLC late,4,"Adenocarcinoma, NOS","EGFR L858R, ALK-",Male,86.0,80 - 90,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00480,NSLC late,4,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-, TP53+",Female,59.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00481,NSLC late,4B,"Adenocarcinoma, NOS","EGFR Exon 19 T790M, ALK-",Female,77.0,70 - 80,Unknown,10.0,Ex-smoker,non-heavy
+OX_LC_00482,NSLC late,3B,"Adenocarcinoma, NOS","EGFR Exon 21 T790M, ALK-",Female,65.0,60 - 70,Unknown,5.0,Ex-smoker,non-heavy
+OX_LC_00483,NSLC late,4B,"Adenocarcinoma, NOS","EGFR L858R T790M, ALK-",Female,69.0,60 - 70,Unknown,18.0,Ex-smoker,non-heavy
+OX_LC_00484,NSLC late,4B,"Adenocarcinoma, NOS","EGFR L858R T790M, ALK-",Female,80.0,80 - 90,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00485,NSLC late,4B,"Adenocarcinoma, NOS","EGFR+ (unable to find specifics in EPR), ALK-",Male,65.0,60 - 70,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00486,NSLC late,4B,"Adenocarcinoma, NOS","EGFR Exon 21 L858R, ALK-",Female,47.0,< 50,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00487,NSLC late,4,Adenocarcinoma with acinar and solid features,"EGFR L858R, ALK-",Male,69.0,60 - 70,Unknown,2.0,Light ex-smoker,non-heavy
+OX_LC_00488,NSLC late,4B,"Adenocarcinoma, NOS","EGFR Exon 19, ALK-",Female,58.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00489,NSLC late,4,"Adenocarcinoma, NOS",EGFR+,Female,50.0,50 - 60,Unknown,0.0,Never smoker,non-heavy
+OX_LC_00490,NSLC late,4,"Carcinoma, NOS","EGFR L858R, Insufficient to test ALK or do IO",Female,73.0,70 - 80,Unknown,0.0,Never smoker,non-heavy
+OX_CF_00001,control,,,,Male,75.56,70 - 80,Unknown,87.5,Ex-smoker,heavy
+OX_CF_00002,control,,,,Female,64.39,60 - 70,Unknown,25.0,Current smoker,heavy
+OX_CF_00003,control,,,,Male,75.48,70 - 80,Unknown,20.0,Ex-smoker,heavy
+OX_CF_00004,control,,,,Female,66.87,60 - 70,Unknown,45.5,Ex-smoker,heavy
+OX_CF_00005,control,,,,Male,77.44,70 - 80,Unknown,40.0,Current smoker,heavy
+OX_CF_00006,control,,,,Female,64.36,60 - 70,Unknown,27.75,Current smoker,heavy
+OX_CF_00007,control,,,,Female,63.16,60 - 70,Unknown,25.0,Current smoker,heavy
+OX_CF_00008,control,,,,Female,72.93,70 - 80,Unknown,56.25,Current smoker,heavy
+OX_CF_00009,control,,,,Female,68.35,60 - 70,Unknown,47.0,Current smoker,heavy
+OX_CF_00010,control,,,,Female,73.03,70 - 80,Unknown,80.0,Current smoker,heavy
+OX_CF_00011,control,,,,Female,75.59,70 - 80,Unknown,70.0,Ex-smoker,heavy
+OX_CF_00012,control,,,,Male,74.14,70 - 80,Unknown,37.0,Ex-smoker,heavy
+OX_CF_00013,control,,,,Male,71.21,70 - 80,Unknown,42.0,Current smoker,heavy
+OX_CF_00014,control,,,,Female,78.38,70 - 80,Unknown,40.0,Current smoker,heavy
+OX_CF_00015,control,,,,Male,69.1,60 - 70,Unknown,73.5,Current smoker,heavy
+OX_CF_00016,control,,,,Female,74.66,70 - 80,Unknown,60.0,Ex-smoker,heavy
+OX_CF_00017,control,,,,Male,78.74,70 - 80,Unknown,28.5,Ex-smoker,heavy
+OX_CF_00018,control,,,,Female,76.63,70 - 80,Unknown,10.0,Ex-smoker,non-heavy
+OX_CF_00019,control,,,,Male,73.7,70 - 80,Unknown,42.0,Current smoker,heavy
+OX_CF_00020,control,,,,Male,76.1,70 - 80,Unknown,96.0,Ex-smoker,heavy
+OX_CF_00021,control,,,,Male,66.4,60 - 70,Unknown,24.0,Ex-smoker,heavy
+OX_CF_00022,control,,,,Male,72.02,70 - 80,Unknown,58.0,Ex-smoker,heavy
+OX_CF_00023,control,,,,Male,71.42,70 - 80,Unknown,54.0,Ex-smoker,heavy
+OX_CF_00024,control,,,,Male,81.49,80 - 90,Unknown,41.0,Current smoker,heavy
+OX_CF_00025,control,,,,Female,77.41,70 - 80,Unknown,20.0,Ex-smoker,heavy
+OX_CF_00026,control,,,,Female,75.85,70 - 80,Unknown,45.0,Ex-smoker,heavy
+OX_CF_00027,control,,,,Female,74.0,70 - 80,Unknown,10.0,Ex-smoker,non-heavy
+OX_CF_00028,control,,,,Female,60.82,60 - 70,Unknown,38.0,Current smoker,heavy
+OX_CF_00029,control,,,,Female,74.57,70 - 80,Unknown,48.0,Ex-smoker,heavy
+OX_CF_00030,control,,,,Male,69.7,60 - 70,Unknown,39.0,Ex-smoker,heavy
+OX_CF_00031,control,,,,Female,74.4,70 - 80,Unknown,92.0,Current smoker,heavy
+OX_CF_00032,control,,,,Female,73.45,70 - 80,Unknown,45.0,Ex-smoker,heavy
+OX_CF_00033,control,,,,Male,73.34,70 - 80,Unknown,45.0,Ex-smoker,heavy
+OX_CF_00034,control,,,,Male,57.63,50 - 60,Unknown,18.75,Ex-smoker,non-heavy
+OX_CF_00035,control,,,,Male,79.83,70 - 80,Unknown,31.5,Ex-smoker,heavy
+OX_CF_00036,control,,,,Male,73.42,70 - 80,Unknown,60.0,Current smoker,heavy
+OX_CF_00037,control,,,,Male,70.44,70 - 80,Unknown,66.0,Ex-smoker,heavy
+OX_CF_00038,control,,,,Male,80.83,80 - 90,Unknown,46.0,Current smoker,heavy
+OX_CF_00039,control,,,,Female,71.82,70 - 80,Unknown,35.0,Ex-smoker,heavy
+OX_CF_00040,control,,,,Male,68.67,60 - 70,Unknown,37.0,Ex-smoker,heavy
+OX_CF_00041,control,,,,Female,69.5,60 - 70,Unknown,29.25,Ex-smoker,heavy
+OX_CF_00042,control,,,,Female,61.49,60 - 70,Unknown,34.0,Ex-smoker,heavy
+OX_CF_00043,control,,,,Female,81.1,80 - 90,Unknown,53.0,Ex-smoker,heavy
+OX_CF_00044,control,,,,Female,74.71,70 - 80,Unknown,30.0,Ex-smoker,heavy
+OX_CF_00045,control,,,,Female,84.51,80 - 90,Unknown,54.0,Ex-smoker,heavy
+OX_CF_00046,control,,,,Male,70.48,70 - 80,Unknown,35.0,Ex-smoker,heavy
+OX_CF_00047,control,,,,Male,83.01,80 - 90,Unknown,75.0,Ex-smoker,heavy
+OX_CF_00048,control,,,,Female,70.64,70 - 80,Unknown,18.5,Current smoker,non-heavy
+OX_CF_00049,control,,,,Female,75.0,70 - 80,Unknown,48.0,Current smoker,heavy
+OX_CF_00050,control,,,,Female,62.5,60 - 70,Unknown,38.0,Ex-smoker,heavy
+OX_CF_00051,control,,,,Male,78.86,70 - 80,Unknown,55.0,Ex-smoker,heavy
+OX_CF_00052,control,,,,Female,77.2,70 - 80,Unknown,51.0,Ex-smoker,heavy
+OX_CF_00053,control,,,,Female,78.0,70 - 80,Unknown,34.0,Ex-smoker,heavy
+OX_CF_00054,control,,,,Male,56.33,50 - 60,Unknown,35.0,Ex-smoker,heavy
+OX_CF_00055,control,,,,Female,77.57,70 - 80,Unknown,25.0,Ex-smoker,heavy
+OX_CF_00056,control,,,,Female,52.6,50 - 60,Unknown,36.0,Current smoker,heavy
+OX_CF_00057,control,,,,Male,79.78,70 - 80,Unknown,62.5,Current smoker,heavy
+OX_CF_00058,control,,,,Female,82.39,80 - 90,Unknown,60.0,Ex-smoker,heavy
+OX_CF_00059,control,,,,Female,79.56,70 - 80,Unknown,45.0,Ex-smoker,heavy
+OX_CF_00060,control,,,,Female,70.46,70 - 80,Unknown,41.0,Ex-smoker,heavy
+OX_CF_00061,control,,,,Female,55.24,50 - 60,Unknown,14.0,Ex-smoker,non-heavy
+OX_CF_00062,control,,,,Male,69.49,60 - 70,Unknown,80.0,Ex-smoker,heavy
+OX_CF_00063,control,,,,Male,83.13,80 - 90,Unknown,40.0,Ex-smoker,heavy
+OX_CF_00064,control,,,,Male,52.73,50 - 60,Unknown,12.0,Ex-smoker,non-heavy
+OX_CF_00065,control,,,,Male,70.13,70 - 80,Unknown,25.0,Ex-smoker,heavy
+OX_CF_00066,control,,,,Female,64.61,60 - 70,Unknown,40.0,Ex-smoker,heavy
+OX_CF_00067,control,,,,Male,61.31,60 - 70,Unknown,20.0,Current smoker,heavy
+OX_CF_00068,control,,,,Female,74.58,70 - 80,Unknown,50.0,Ex-smoker,heavy
+OX_CF_00069,control,,,,Female,68.63,60 - 70,Unknown,66.25,Current smoker,heavy
+OX_CF_00070,control,,,,Male,71.31,70 - 80,Unknown,40.0,Ex-smoker,heavy
+OX_CF_00071,control,,,,Male,53.0,50 - 60,Unknown,18.0,Current smoker,non-heavy
+OX_CF_00072,control,,,,Male,68.95,60 - 70,Unknown,23.0,Ex-smoker,heavy
+OX_CF_00073,control,,,,Male,71.53,70 - 80,Unknown,45.0,Current smoker,heavy
+OX_CF_00074,control,,,,Male,71.33,70 - 80,Unknown,40.0,Current smoker,heavy
+OX_CF_00075,control,,,,Male,78.21,70 - 80,Unknown,67.5,Ex-smoker,heavy
+OX_CF_00076,control,,,,Male,61.33,60 - 70,Unknown,44.0,Current smoker,heavy
+OX_CF_00077,control,,,,Female,71.58,70 - 80,Unknown,70.0,Ex-smoker,heavy
+OX_CF_00078,control,,,,Male,56.16,50 - 60,Unknown,18.0,Current smoker,non-heavy
+OX_CF_00079,control,,,,Female,84.76,80 - 90,Unknown,37.5,Ex-smoker,heavy
+OX_CF_00080,control,,,,Male,57.88,50 - 60,Unknown,20.0,Ex-smoker,heavy
+OX_CF_00081,control,,,,Male,77.71,70 - 80,Unknown,22.5,Ex-smoker,heavy
+OX_CF_00082,control,,,,Male,52.27,50 - 60,Unknown,20.0,Ex-smoker,heavy
+OX_CF_00083,control,,,,Male,52.64,50 - 60,Unknown,37.0,Current smoker,heavy
+OX_CF_00084,control,,,,Male,54.29,50 - 60,Unknown,26.25,Current smoker,heavy
+OX_CF_00085,control,,,,Male,57.38,50 - 60,Unknown,10.0,Ex-smoker,non-heavy
+OX_CF_00086,control,,,,Female,81.1,80 - 90,Unknown,44.0,Ex-smoker,heavy
+OX_CF_00087,control,,,,Female,73.3,70 - 80,Unknown,29.0,Ex-smoker,heavy
+OX_CF_00088,control,,,,Male,71.14,70 - 80,Unknown,25.0,Ex-smoker,heavy
+OX_CF_00089,control,,,,Female,66.42,60 - 70,Unknown,45.0,Ex-smoker,heavy
+OX_CF_00090,control,,,,Female,81.67,80 - 90,Unknown,50.0,Ex-smoker,heavy
+OX_CF_00091,control,,,,Female,69.96,60 - 70,Unknown,30.0,Current smoker,heavy
+OX_CF_00092,control,,,,Male,61.62,60 - 70,Unknown,30.0,Ex-smoker,heavy
+OX_CF_00093,control,,,,Male,54.87,50 - 60,Unknown,26.25,Ex-smoker,heavy
+OX_CF_00094,control,,,,Male,66.44,60 - 70,Unknown,117.5,Ex-smoker,heavy
+OX_CF_00095,control,,,,Female,64.56,60 - 70,Unknown,27.5,Ex-smoker,heavy
+OX_CF_00096,control,,,,Male,73.42,70 - 80,Unknown,78.75,Ex-smoker,heavy
+OX_CF_00097,control,,,,Female,55.5,50 - 60,Unknown,11.25,Ex-smoker,non-heavy
+OX_CF_00098,control,,,,Female,84.0,80 - 90,Unknown,22.0,Ex-smoker,heavy
+OX_CF_00099,control,,,,Female,75.75,70 - 80,Unknown,66.0,Ex-smoker,heavy
+OX_CF_00100,control,,,,Female,85.0,80 - 90,Unknown,22.5,Current smoker,heavy
+OX_CF_00101,control,,,,Female,64.51,60 - 70,Unknown,35.25,Current smoker,heavy
+OX_CF_00102,control,,,,Female,70.47,70 - 80,Unknown,31.5,Ex-smoker,heavy
+OX_CF_00103,control,,,,Male,52.62,50 - 60,Unknown,34.0,Current smoker,heavy
+OX_CF_00104,control,,,,Female,54.59,50 - 60,Unknown,22.5,Current smoker,heavy
+OX_CF_00105,control,,,,Male,60.33,60 - 70,Unknown,20.0,Current smoker,heavy
+OX_CF_00106,control,,,,Female,51.4,50 - 60,Unknown,32.5,Current smoker,heavy
+OX_CF_00107,control,,,,Female,54.36,50 - 60,Unknown,38.5,Ex-smoker,heavy
+OX_CF_00108,control,,,,Female,58.48,50 - 60,Unknown,10.0,Ex-smoker,non-heavy
+OX_CF_00109,control,,,,Female,55.06,50 - 60,Unknown,15.0,Ex-smoker,non-heavy
+OX_CF_00110,control,,,,Female,51.12,50 - 60,Unknown,52.5,Ex-smoker,heavy
+OX_CF_00111,control,,,,Male,59.83,50 - 60,Unknown,24.0,Ex-smoker,heavy
+OX_CF_00112,control,,,,Male,60.19,60 - 70,Unknown,15.0,Ex-smoker,non-heavy
+OX_CF_00113,control,,,,Male,53.22,50 - 60,Unknown,37.5,Current smoker,heavy
+OX_CF_00114,control,,,,Male,83.77,80 - 90,Unknown,60.0,Ex-smoker,heavy
+OX_CF_00115,control,,,,Male,62.51,60 - 70,Unknown,60.0,Ex-smoker,heavy
+OX_CF_00116,control,,,,Female,51.1,50 - 60,Unknown,15.0,Current smoker,non-heavy
+OX_CF_00117,control,,,,Male,50.94,50 - 60,Unknown,25.0,Current smoker,heavy
+OX_CF_00118,control,,,,Male,77.48,70 - 80,Unknown,50.0,Ex-smoker,heavy
+OX_CF_00119,control,,,,Male,57.49,50 - 60,Unknown,80.0,Current smoker,heavy
+OX_CF_00120,control,,,,Male,63.86,60 - 70,Unknown,70.0,Current smoker,heavy
+OX_CF_00121,control,,,,Female,75.77,70 - 80,Unknown,19.0,Ex-smoker,non-heavy
+OX_CF_00122,control,,,,Female,53.0,50 - 60,Unknown,15.0,Current smoker,non-heavy
+OX_CF_00123,control,,,,Female,62.54,60 - 70,Unknown,11.0,Ex-smoker,non-heavy
+OX_CF_00124,control,,,,Female,75.73,70 - 80,Unknown,26.5,Current smoker,heavy

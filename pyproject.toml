@@ -1,0 +1,100 @@
+[tool.coverage.run]
+source = ["./src/"]
+command_line = "-m pytest tests/"
+
+omit = [
+    # Figures are too complicated to test. Can just view them as a reasonable test.
+    "src/figure_generation.py",
+]
+
+[tool.coverage.report]
+exclude_lines = [
+    # Have to re-enable the standard pragma
+    "pragma: no cover",
+    # Don't report any abstract methods
+    "@abstractmethod",
+    # Don't report on any ...
+    "\\.\\.\\.",
+    # No need to test typing modules
+    "if TYPE_CHECKING:",
+]
+
+skip_covered = true
+skip_empty = true
+show_missing = true
+
+[tool.pytest.ini_options]
+addopts = "--strict-markers"
+markers = [
+    "feature_selection"
+]
+testpaths = "tests/"
+
+[tool.mypy]
+python_version = "3.10"
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+warn_redundant_casts = true
+warn_unreachable = true
+show_error_codes = true
+disallow_any_generics = true
+follow_imports = "silent"
+
+[[tool.mypy.overrides]]
+module = [
+    "sklearn.*",
+    "matplotlib.*",
+    "skrebate",
+    "statsmodels.*",
+    "joblib",
+    "openpyxl.*",
+    "scipy.*",
+    "seaborn.*",
+    "pandas",
+    "xgboost.*",
+    "shap",
+    "boto3",
+    "tune_sklearn",
+    "lime.*",
+    "combat.*",
+    "optuna.*",
+    "imblearn.*",
+    "plotly.*",
+    "Levenshtein.*",
+    "BorutaShap.*",
+]
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = "tests.*"
+ignore_errors = true
+
+
+[tool.pyright]
+venvPath = "."
+venv = "venv"
+ignore = ["tests/**", "missingpy/**"]
+typeCheckingMode = "basic"
+pythonVersion = "3.10"
+pythonPlatform = "Linux"
+
+strictListInference = true
+strictDictionaryInference = true
+strictSetInference = true
+reportUnusedVariable = "error"
+reportUnusedFunction = "error"
+reportDuplicateImport = "error"
+reportDeprecated = "error"
+reportMissingParameterType = "error"
+reportUnnecessaryComparison = "error"
+reportImplicitStringConcatenation = "error"
+reportMatchNotExhaustive = "error"
+reportMissingTypeArgument = "error"
+
+[tool.numpydoc_validation]
+checks = [
+    "PR01",
+    "GL03",
+    "PR07"
+]

@@ -1,0 +1,57 @@
+version: 2.1
+
+orbs:
+  python: circleci/python@2.1.1
+
+jobs:
+  test_and_cover:
+    docker:
+      - image: cimg/python:3.10.4
+    resource_class: medium
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "8f:01:1c:60:87:e2:e8:61:03:f7:98:c1:aa:85:b8:f3"
+      - checkout
+      - python/install-packages:
+          pkg-manager: pip
+          include-branch-in-cache-key: false
+      - run:
+          command: |
+            coverage run
+            coverage report
+            coverage html
+          name: Testing
+      - store_artifacts:
+          path: htmlcov
+  run_pre_commit:
+    docker:
+      - image: cimg/python:3.10.4
+    resource_class: medium
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "8f:01:1c:60:87:e2:e8:61:03:f7:98:c1:aa:85:b8:f3"
+      - checkout
+      -  python/install-packages:
+          pkg-manager: pip
+          include-branch-in-cache-key: false
+      - run: cp -r ~/.pyenv/versions/3.10.4/ ~/project/venv
+      - restore_cache:
+          keys:
+            - pre-commit-cache-v1-{{ checksum "~/project/.pre-commit-config.yaml" }}
+            - pre-commit-cache-v1-
+      - run:
+          command: |
+            pre-commit run --all-files
+      - save_cache:
+          key: pre-commit-cache-v1-{{ checksum "~/project/.pre-commit-config.yaml" }}
+          paths:
+            - ~/.cache/pre-commit
+workflows:
+  testing:
+    jobs:
+      - test_and_cover
+  pre-commit:
+    jobs:
+      - run_pre_commit
