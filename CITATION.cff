@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+title: "Multidimensional proteomics and explainable AI feature selection identify cross-platform lung cancer molecular signature in blood plasma"
+repository-code: "https://github.com/Oxford-Cancer-Analytics/oxcan-fs-manuscript"
+license: "BSD-3-Clause"
+
+authors:
+  - family-names: Gushterov
+    given-names: Nikola
+    affiliation: "Oxford Cancer Analytics Ltd, Oxford, UK"
+  - family-names: Hankey
+    given-names: Luke
+    affiliation: "Oxford Cancer Analytics Ltd, Oxford, UK"
+  - family-names: Kaneva
+    given-names: Iliyana
+    affiliation: "Oxford Cancer Analytics Ltd, Oxford, UK"
+  - family-names: Dupalliwar
+    given-names: Mrunmayee
+    affiliation: "Oxford Cancer Analytics Ltd, Oxford, UK"
+  - family-names: Syed
+    given-names: Junetha
+    affiliation: "Oxford Cancer Analytics Ltd, Oxford, UK"
+  - family-names: Mi
+    given-names: Emma
+    affiliation: "Oxford Cancer Analytics Ltd, Oxford, UK"
+  - family-names: Mi
+    given-names: Ella
+    affiliation: "Oxford Cancer Analytics Ltd, Oxford, UK"
+  - family-names: Szulc
+    given-names: Daniel Andrzej
+    affiliation: "Oxford Cancer Analytics Ltd, Oxford, UK"
+  - family-names: Zhan
+    given-names: Luna Jia
+    affiliation: "Princess Margaret Cancer Centre, University Health Network, University of Toronto, Toronto, ON, Canada"
+  - family-names: Patelban
+    given-names: Deval
+    affiliation: "Princess Margaret Cancer Centre, University Health Network, University of Toronto, Toronto, ON, Canada"
+  - family-names: Fischer
+    given-names: Roman
+    affiliation: "Target Discovery Institute, Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, UK"
+  - family-names: Fischer
+    given-names: Roman
+    affiliation: "Chinese Academy of Medical Sciences Oxford Institute, University of Oxford, Oxford, UK"
+  - family-names: Kessler
+    given-names: Benedikt M
+    affiliation: "Target Discovery Institute, Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, UK"
+  - family-names: Kessler
+    given-names: Benedikt M
+    affiliation: "Chinese Academy of Medical Sciences Oxford Institute, University of Oxford, Oxford, UK"
+  - family-names: Liu
+    given-names: Geoffery
+    affiliation: "Princess Margaret Cancer Centre, University Health Network, University of Toronto, Toronto, ON, Canada"
+  - family-names: Halner
+    given-names: Andreas
+    affiliation: "Oxford Cancer Analytics Ltd, Oxford, UK"
+  - family-names: Liu
+    given-names: Peter Jianrui
+    affiliation: "Oxford Cancer Analytics Ltd, Oxford, UK"
+    email: "p.liu@oxcan.org"
+    corresponding: true
+
+notes: "Equal contribution: Nikola Gushterov, Luke Hankey, Iliyana Kaneva."
