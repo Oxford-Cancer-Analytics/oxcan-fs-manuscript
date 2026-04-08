@@ -1,0 +1,42 @@
+{
+  "title": "Multidimensional proteomics and explainable AI feature selection identify cross-platform lung cancer molecular signature in blood plasma",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "BSD-3-Clause",
+  "description": "Code and materials for: “Multidimensional proteomics and explainable AI feature selection identify cross-platform lung cancer molecular signature in blood plasma.”\n\nEqual contribution: Nikola Gushterov, Luke Hankey, Iliyana Kaneva.\nCorrespondence: p.liu@oxcan.org",
+  "creators": [
+    { "name": "Gushterov, Nikola", "affiliation": "Oxford Cancer Analytics Ltd, Oxford, UK" },
+    { "name": "Hankey, Luke", "affiliation": "Oxford Cancer Analytics Ltd, Oxford, UK" },
+    { "name": "Kaneva, Iliyana", "affiliation": "Oxford Cancer Analytics Ltd, Oxford, UK" },
+    { "name": "Dupalliwar, Mrunmayee", "affiliation": "Oxford Cancer Analytics Ltd, Oxford, UK" },
+    { "name": "Syed, Junetha", "affiliation": "Oxford Cancer Analytics Ltd, Oxford, UK" },
+    { "name": "Mi, Emma", "affiliation": "Oxford Cancer Analytics Ltd, Oxford, UK" },
+    { "name": "Mi, Ella", "affiliation": "Oxford Cancer Analytics Ltd, Oxford, UK" },
+    { "name": "Szulc, Daniel Andrzej", "affiliation": "Oxford Cancer Analytics Ltd, Oxford, UK" },
+    { "name": "Zhan, Luna Jia", "affiliation": "Princess Margaret Cancer Centre, University Health Network, University of Toronto, Toronto, ON, Canada" },
+    { "name": "Patelban, Deval", "affiliation": "Princess Margaret Cancer Centre, University Health Network, University of Toronto, Toronto, ON, Canada" },
+    { "name": "Fischer, Roman", "affiliation": "Target Discovery Institute, Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, UK" },
+    { "name": "Fischer, Roman", "affiliation": "Chinese Academy of Medical Sciences Oxford Institute, University of Oxford, Oxford, UK" },
+    { "name": "Kessler, Benedikt M", "affiliation": "Target Discovery Institute, Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, UK" },
+    { "name": "Kessler, Benedikt M", "affiliation": "Chinese Academy of Medical Sciences Oxford Institute, University of Oxford, Oxford, UK" },
+    { "name": "Liu, Geoffery", "affiliation": "Princess Margaret Cancer Centre, University Health Network, University of Toronto, Toronto, ON, Canada" },
+    { "name": "Halner, Andreas", "affiliation": "Oxford Cancer Analytics Ltd, Oxford, UK" },
+    { "name": "Liu, Peter Jianrui", "affiliation": "Oxford Cancer Analytics Ltd, Oxford, UK" }
+  ],
+  "keywords": [
+    "lung cancer",
+    "proteomics",
+    "blood plasma",
+    "DIA",
+    "feature selection",
+    "explainable AI",
+    "biomarkers"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Oxford-Cancer-Analytics/oxcan-fs-manuscript",
+      "scheme": "url"
+    }
+  ]
+}
