@@ -10,7 +10,7 @@ repos:
     -   id: check-added-large-files
     -   id: check-merge-conflict
 -   repo: https://github.com/psf/black
-    rev: 25.1.0
+    rev: 26.3.1
     hooks:
     -   id: black
         language_version: python3.10
@@ -18,17 +18,17 @@ repos:
           -  --line-length=119
           -  --force-exclude=SageMaker
 -   repo: https://github.com/asottile/reorder_python_imports
-    rev: v3.15.0
+    rev: v3.16.0
     hooks:
     -   id: reorder-python-imports
         args: [--application-directories="."]
 -   repo: https://github.com/asottile/pyupgrade
-    rev: v3.20.0
+    rev: v3.21.2
     hooks:
     -   id: pyupgrade
         args: [--py310-plus]
 -   repo: https://github.com/pre-commit/mirrors-mypy
-    rev: v1.18.1
+    rev: v1.20.0
     hooks:
     -   id: mypy
         files: ^src/
@@ -46,12 +46,12 @@ repos:
           - flake8-unused-arguments~=0.0.13
           - flake8-variables-names~=0.0.5
 -   repo: https://github.com/numpy/numpydoc
-    rev: v1.9.0
+    rev: v1.10.0
     hooks:
     -   id: numpydoc-validation
         exclude: main.py|missingpy
 -   repo: https://github.com/RobertCraigie/pyright-python
-    rev: v1.1.405
+    rev: v1.1.408
     hooks:
     -   id: pyright
         exclude: ^tests
