@@ -5,6 +5,8 @@ title: "Multidimensional proteomics and explainable AI feature selection identif
 doi: "10.5281/zenodo.19552975"
 repository-code: "https://github.com/Oxford-Cancer-Analytics/oxcan-fs-manuscript"
 license: "BSD-3-Clause"
+version: "v1.0.0"
+date-released: "2026-04-13"
 
 authors:
   - family-names: Gushterov
@@ -39,16 +41,10 @@ authors:
     affiliation: "Princess Margaret Cancer Centre, University Health Network, University of Toronto, Toronto, ON, Canada"
   - family-names: Fischer
     given-names: Roman
-    affiliation: "Target Discovery Institute, Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, UK"
-  - family-names: Fischer
-    given-names: Roman
-    affiliation: "Chinese Academy of Medical Sciences Oxford Institute, University of Oxford, Oxford, UK"
+    affiliation: "Target Discovery Institute, Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, UK; Chinese Academy of Medical Sciences Oxford Institute, University of Oxford, Oxford, UK"
   - family-names: Kessler
     given-names: Benedikt M
-    affiliation: "Target Discovery Institute, Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, UK"
-  - family-names: Kessler
-    given-names: Benedikt M
-    affiliation: "Chinese Academy of Medical Sciences Oxford Institute, University of Oxford, Oxford, UK"
+    affiliation: "Target Discovery Institute, Centre for Medicines Discovery, Nuffield Department of Medicine, University of Oxford, Oxford, UK; Chinese Academy of Medical Sciences Oxford Institute, University of Oxford, Oxford, UK"
   - family-names: Liu
     given-names: Geoffery
     affiliation: "Princess Margaret Cancer Centre, University Health Network, University of Toronto, Toronto, ON, Canada"
