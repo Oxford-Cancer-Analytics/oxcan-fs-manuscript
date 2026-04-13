@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1129872806.svg)](https://doi.org/10.5281/zenodo.19552975)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19552975.svg)](https://doi.org/10.5281/zenodo.19552975)
 
 # oxcan-fs
 
