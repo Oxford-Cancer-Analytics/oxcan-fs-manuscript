@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it using the metadata below."
 type: software
 title: "Multidimensional proteomics and explainable AI feature selection identify cross-platform lung cancer molecular signature in blood plasma"
-doi: "10.5281/zenodo.19552975"
+doi: "10.5281/zenodo.19552976"
 repository-code: "https://github.com/Oxford-Cancer-Analytics/oxcan-fs-manuscript"
 license: "BSD-3-Clause"
 version: "v1.0.0"
